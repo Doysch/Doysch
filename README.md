@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a few of personal projects after completing two from a recent coding bootcamp
 
-- 🌱 I’m currently deepening my knowledge of JavaScript and am starting to learn **React and Tailwind**
+- 🌱 We mainly used **Ruby On Rails** on the bootcamp, but I’m currently deepening my knowledge of JavaScript and am starting to learn **React and Tailwind**
 
 - 👯 I’m looking to collaborate on **anything I can help with to expand my knowledge and help others**
 
