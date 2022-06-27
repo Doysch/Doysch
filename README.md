@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/davebaconlondon/**
 
-- ⚡ Fun fact **I was in a few episodes of The Crown**
+- ⚡ Fun fact I play trumpet and piano and ** was in a few episodes of The Crown**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
