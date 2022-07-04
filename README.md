@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dave Bacon 🥓</h1>
-<h3 align="center">A passionate frontend developer from London, switching career from music!</h3>
+<h3 align="center">A passionate developer from London, switching career from music!</h3>
 
 - 🔭 I’m currently working on a few of personal projects after completing two from a recent coding bootcamp
 
