@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dave Bacon 🥓</h1>
 <h3 align="center">A passionate developer from London, switching career from music!</h3>
 
-- 🔭 I’m currently working on a few of personal projects after completing two from a recent coding bootcamp
+- 🔭 I’m currently employed as a Teaching Assistant on a web dev bootcamp
+
+- 🤓 While working on a few of personal projects after completing two from a recent coding bootcamp
 
 - 🌱 We mainly used **Ruby On Rails** on the bootcamp, but I’m currently deepening my knowledge of JavaScript and am starting to learn **React and Tailwind**
 
