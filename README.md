@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dave Bacon 🥓</h1>
 <h3 align="center">A passionate Support Engineer from London, after switching career from music!</h3>
 
-- 🔭 I’m currently employed by Algolia
+- 🔭 I’m currently employed by Algolia as a Developer Support Engineer
 
-- 🤓 While working on a few of personal projects after completing two from a recent coding bootcamp
-
-- 🌱 We mainly used **Ruby On Rails** on the bootcamp, but I’m currently deepening my knowledge of JavaScript and am starting to learn **React and Tailwind**
-
-- 👯 I’m looking to collaborate on **anything I can help with to expand my knowledge and help others**
-
-- 💬 Ask me about **the coding bootcamp I just finished @ Le Wagon!**
+- 👯 With a solid foundation in customer support and product knowledge, combined with a burning desire to dive deeper into customer solutions, I'm well-prepared to bring added value to a customer-facing, relationship-building role
 
 - 📫 How to reach me **https://www.linkedin.com/in/davebaconlondon/**
 
-- ⚡ Fun fact I play trumpet and piano and was in a few episodes of **The Crown**
+- ⚡ Fun fact I play trumpet and piano and was in a few episodes of **The Crown** and the film **Death of Stalin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
