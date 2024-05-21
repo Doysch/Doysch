@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dave Bacon 🥓</h1>
-<h3 align="center">A passionate Support Engineer from London, after switching career from music!</h3>
+<h3 align="center">A passionate Customer Support Engineer for Algolia</h3>
 
-- 🔭 I’m currently employed by Algolia as a Developer Support Engineer
+- 👯 Dedicated and dynamic Customer Success Engineer skilled in resolving complex technical issues with a keen focus on customer success.
+- 
+- 🧑🏻‍💻 Possesses a robust technical background and a unique ability to bridge technical and non-technical audiences from small businesses to Enterprise customers. Primed to leverage this blend of technical proficiency and excellent communication in a role that demands fostering strong client relationships.
 
-- 👯 With a solid foundation in customer support and product knowledge, combined with a burning desire to dive deeper into customer solutions, I'm well-prepared to bring added value to a customer-facing, relationship-building role
+⚡ Fun fact - I featured in an episode of The Crown and film The Death of Stalin playing trumpet/french horn!
 
 - 📫 How to reach me **https://www.linkedin.com/in/davebaconlondon/**
 
