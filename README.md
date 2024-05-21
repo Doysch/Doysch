@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Customer Support Engineer for Algolia</h3>
 
 - 👯 Dedicated and dynamic Customer Success Engineer skilled in resolving complex technical issues with a keen focus on customer success.
-- 
+  
 - 🧑🏻‍💻 Possesses a robust technical background and a unique ability to bridge technical and non-technical audiences from small businesses to Enterprise customers. Primed to leverage this blend of technical proficiency and excellent communication in a role that demands fostering strong client relationships.
 
 ⚡ Fun fact - I featured in an episode of The Crown and film The Death of Stalin playing trumpet/french horn!
