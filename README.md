@@ -5,8 +5,6 @@
   
 - 🧑🏻‍💻 Possesses a robust technical background and a unique ability to bridge technical and non-technical audiences from small businesses to Enterprise customers. Primed to leverage this blend of technical proficiency and excellent communication in a role that demands fostering strong client relationships.
 
-⚡ Fun fact - I featured in an episode of The Crown and film The Death of Stalin playing trumpet/french horn!
-
 - 📫 How to reach me **https://www.linkedin.com/in/davebaconlondon/**
 
 - ⚡ Fun fact I play trumpet and piano and was in a few episodes of **The Crown** and the film **Death of Stalin**
