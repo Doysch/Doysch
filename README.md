@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dave Bacon 🥓</h1>
-<h3 align="center">A passionate Customer Support Engineer for Algolia</h3>
+<h3 align="center">A passionate Customer Success Engineer @ Algolia</h3>
 
 - 👯 Dedicated and dynamic Customer Success Engineer skilled in resolving complex technical issues with a keen focus on customer success.
   
