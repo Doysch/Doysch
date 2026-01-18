@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dave Bacon 🥓</h1>
-<h3 align="center">A passionate Customer Success Engineer @ Algolia</h3>
+<h3 align="center">Customer Solutions Engineer @ Algolia</h3>
 
-- 👯 Dedicated and dynamic Customer Success Engineer skilled in resolving complex technical issues with a keen focus on customer success.
-  
-- 🧑🏻‍💻 Possesses a robust technical background and a unique ability to bridge technical and non-technical audiences from small businesses to Enterprise customers. Primed to leverage this blend of technical proficiency and excellent communication in a role that demands fostering strong client relationships.
+- 🧭 Working across pre- and post-sales to help teams evaluate solution fit, design practical implementations, and unlock measurable ROI.
 
-- ⚡ Fun fact I play trumpet and piano and was in a few episodes of **The Crown** and the film **Death of Stalin**
+- 🧑🏻‍💻 Background in Support Engineering and onboarding, with hands-on experience getting customers live and optimising production setups and delivuering ROI across different industries at enterprise level.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/davebaconlondon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davebaconlondon" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact: Trumpet & piano player, with appearances in <strong>The Crown</strong> and <strong>The Death of Stalin</strong>.
